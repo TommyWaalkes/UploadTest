@@ -8,6 +8,7 @@ namespace UploadTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This looks ready to ship");
+            Console.WriteLine("Third line!");
         }
     }
 }
